@@ -1,3 +1,2 @@
 # desktop-overloader
-# Creates files that create files that are saved to your Windows computer's desktop using batch files. NOTE: THIS CAN BE DANGEROUS AND SHOULD ONLY BE USED FOR EDUCATIONAL PURPOSES.
-# To use this glitch, go to your Windows desktop and right-click and an option will be "new". Select .txt file or text document. Open the document and paste the code. after, do ctrl + s which will save your code. you can now close the .txt document and go back to your desktop. Change the name to "overloader.bat". MAKE SURE TO REMOVE THE .TXT IN THE NAME AND MAKE IT .BAT!!!! now you can double-click on it and it should work.
+# Creates files that create files that are saved to your Windows computer's desktop using batch files. NOTE: THIS CAN BE DANGEROUS AND SHOULD ONLY BE USED FOR EDUCATIONAL PURPOSES
